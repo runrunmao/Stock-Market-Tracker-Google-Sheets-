@@ -1,4 +1,4 @@
-# Stock Market Tracker Google Sheets
+# Stock Market Tracker Using Google Sheets
 
 Automated financial data dashboard for real-time equity monitoring and trend analysis.
 
